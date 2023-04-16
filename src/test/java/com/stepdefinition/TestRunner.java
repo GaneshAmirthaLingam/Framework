@@ -10,6 +10,6 @@ import io.cucumber.junit.CucumberOptions;
 dryRun=false,
 monochrome=true,
 plugin="junit:C:\\Users\\ADMIN\\eclipse-workspace\\Framework\\target\\sample.xml")
-public class StepDefinition {
+public class TestRunner {
 
 }

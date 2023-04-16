@@ -14,7 +14,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class TestRunner {
+public class StepDefinition {
 	WebDriver driver;
 	@Given("Open the Facebook Application")
 	public void open_the_Facebook_Application(io.cucumber.datatable.DataTable dataTable) {
