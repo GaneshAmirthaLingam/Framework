@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="9.461">
+<testcase classname="Validate the Facebook with Proper Username and Password" name="Validate the Facebook with one set of Username and Password" time="5.646">
+<system-out><![CDATA[Given Open the Facebook Application.........................................passed
+When Enter the  "<Username>" and password...................................passed
+And Click the Login button..................................................passed
+Then User validates the Facebook Successfully Login.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validate the Facebook with Proper Username and Password" name="Validate the Facebook with one set of Username and Password 2" time="3.586">
+<system-out><![CDATA[Given Open the Facebook Application.........................................passed
+When Enter the  "<Username>" and password...................................passed
+And Click the Login button..................................................passed
+Then User validates the Facebook Successfully Login.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
